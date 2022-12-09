@@ -25,6 +25,19 @@ Bob's Bakery is a local, family-owned bakery in the heart of Gateshead. They sel
 
 Bob's Bakery would also like to interact with their customers through social media and direct contact.
 
+
+### Demographic
+With the site being in the heart of Gateshead, and there being a travel hub within the building, there is a wide range to cater for. Below I have listed what they may be interested in.
+
+  - Teens 
+    - Sweet tasty cakes, doughnuts and cookies etc.
+  - Students
+    - Quick, convenient food such as pasties, sausage rolls, pre-made sandwiches etc.
+  - Young Professionals
+    - Meal deals(sandwich, crisps and drink)
+  - Families
+    - Bread, Pastries, and personalized cakes(incl birthday cakes).
+
 ### User Stories
 
 - Client Goals
@@ -45,6 +58,34 @@ Bob's Bakery would also like to interact with their customers through social med
 
 - Frequent Visitor Goals
   - As a returning visitor, I want to be able to order items for click and collect.
+
+### Strategic Trade offs
+
+| Opportunity/Problem | Importance | Viability/Feasability |
+| ----------- | ----------- | ----------- |
+| Create an online presence | 5 | 5 |
+| Display a wide range of produce on the site | 4 | 5 |
+| Increase social media interaction | 5 | 5 |
+| Create a click and collect system| 3 | 1 |
+| Email marketing campaign | 2 | 2 |
+| Total | 19 | Avg 18 |
+
+Above I have listed documented some trade-offs and I will explain the reasoning behind them.
+
+- Online presence
+  - This is mandatory and should be achievable given that I am a Front-End Web Developer(the course upto now has given everything I need to achieve this).
+
+- Produce Range
+  - Not as important as an online presence, but most definitely still up there. I feel it is also feasible given my skillset
+
+- Social media interaction
+  - Again, this is well within my skillset as this could be something as simple as a CTA or footer icons with links to social media.
+
+- Click & Collect
+  - In order to get a click & collect system similar(Just-Eat) to other sites I would need to expand my knowledge.This isn't something I feel I have the knowledge for at the moment, so the feasiblity for it scores a one. However, this doesn't mean that it won't be implemented in future updates.
+
+- Email marketing
+  - This could involve a signup form and database of customer emails. There is technology that would handle this for me however I don't feel I have the time to implement this
 
 ## Design
 
