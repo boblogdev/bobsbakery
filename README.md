@@ -102,7 +102,20 @@ Font weights for Roboto are regular(400) and medium(500). Regular is used for th
 
 ### Imagery
 
-Being a local, family-owned bakery, we decided to opt in for images that are warm & welcoming. Using imagery we want to also convey that the bakery is open to all. 
+Being a local, family-owned bakery, we decided to opt in for images that are warm & welcoming. Using imagery we want to also convey that the bakery is open to all.
 
 ### Wireframes & Sitemap
+
+Bob's Bakery Sitemap
+
+The sitemap allows me to get an high-level view view of how the user will navigate the site. Products being the priority for returning users, then reviews & gallery for first-time users, and contact for frequent users.
+
+![Bob's bakery sitemap](assets/images/sitemap.png "Bob's Bakery Sitemap")
+
+[Mobile Wireframe](assets/images/mobile.png)
+
+[Tablet Wireframe](assets/images/tablet.png) 
+
+[Desktop Wireframe](assets/images/desktop.png)
+
 
