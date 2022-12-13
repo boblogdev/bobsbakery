@@ -11,15 +11,13 @@ Head to the deployed site at [Bob's Bakery](https://www.example.com).
 
 ## Table of Contents
 - User Experience(UX) <!-- replace with links -->
+  - Initial Discussion
+  - Demographic
   - User Stories <!-- replace with links -->
 
 
-
-
-
-
 ## User Experience
-### Inital Discussion
+### Initial Discussion
 
 Bob's Bakery is a local, family-owned bakery in the heart of Gateshead. They sell a wide-range of sweet goods as well as savoury goods. Bob's Bakery would like to increase their footfall, and want to do this by having an online presence. 
 
@@ -85,7 +83,7 @@ Above I have listed documented some trade-offs and I will explain the reasoning 
   - In order to get a click & collect system similar(Just-Eat) to other sites I would need to expand my knowledge.This isn't something I feel I have the knowledge for at the moment, so the feasiblity for it scores a one. However, this doesn't mean that it won't be implemented in future updates.
 
 - Email marketing
-  - This could involve a signup form and database of customer emails. There is technology that would handle this for me however I don't feel I have the time to implement this
+  - This could involve a signup form and database of customer emails. There is technology that would handle this for me however I don't feel I have the time or knowledge to implement this.
 
 ## Design
 
@@ -95,4 +93,16 @@ We wanted to use a colour scheme that wasn't going to distract too much from the
 
 ![alt text](assets/images/bobsbakerycolors.png "Bob's Bakery Colour Scheme")
 
+
+### Typography
+
+We decided that we didn't want to overcomplicate the typography, and settled on Roboto, with a fallback font of Sans-serif. 
+
+Font weights for Roboto are regular(400) and medium(500). Regular is used for the text on the pages and medium is used for headings. 
+
+### Imagery
+
+Being a local, family-owned bakery, we decided to opt in for images that are warm & welcoming. Using imagery we want to also convey that the bakery is open to all. 
+
+### Wireframes & Sitemap
 
