@@ -110,12 +110,12 @@ Bob's Bakery Sitemap
 
 The sitemap allows me to get an high-level view view of how the user will navigate the site. Products being the priority for returning users, then reviews & gallery for first-time users, and contact for frequent users.
 
-![Bob's bakery sitemap](assets/images/sitemap.png "Bob's Bakery Sitemap")
+[Sitemap](assets/readme/sitemap.png)
 
-[Mobile Wireframe](assets/images/mobile.png)
+[Mobile Wireframe](assets/readme/mobile.png)
 
-[Tablet Wireframe](assets/images/tablet.png) 
+[Tablet Wireframe](assets/readme/tablet.png) 
 
-[Desktop Wireframe](assets/images/desktop.png)
+[Desktop Wireframe](assets/readme/desktop.png)
 
 
