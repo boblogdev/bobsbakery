@@ -12,21 +12,21 @@
 </head>
 
 <body>
-    <header style="height: 95vh">
+    <header>
         <!-- Modified Bootstrap 4.6 Navigation -->
             <nav class="navbar navbar-expand-lg navbar-dark text-yellow bg-color-green">
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown"
                     aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
-                <div class="container">
+                <div class="container-fluid">
                 <div class="collapse navbar-collapse" id="navbarNavDropdown">
                     <ul class="navbar-nav mx-auto align-items-center">
 
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown"
                                 aria-expanded="false">
-                                Products
+                                Products<span class="sr-only">(current)</span>
                             </a>
                             <div class="dropdown-menu">
                                 <a class="dropdown-item" href="#">Cakes</a>
@@ -36,11 +36,11 @@
                                 <a class="dropdown-item" href="#">Download Menu</a>
                             </div>
                         </li>
-                        <li class="nav-item active">
+                        <li class="nav-item">
                             <a class="nav-link" href="#">Reviews<span class="sr-only">(current)</span></a>
                         </li>
-                        <li>
-                            <img src="assets/images/gray_logo.png" class="mx-auto d-block">
+                        <li class="nav-item">
+                            <img src="assets/images/gray_logo.png" class="mx-auto d-block d-none-sm navbar-logo">
                         </li>
 
                         <li class="nav-item">
@@ -49,15 +49,21 @@
                         <li class="nav-item">
                             <a class="nav-link" href="#">Contact</a>
                         </li>
-
                     </ul>
                 </div>
             </nav>
         </div>
-        <div class="hero-container hero-image">
-
-        </div>
     </header>
+    <div class="hero-container">
+        <div class="hero-image">
+            <div class="overlay">
+                <div class="slogan-container"> 
+                    <p class="slogan-text">"Where every bite is a taste of home!"</p>
+                </div>
+               
+            </div>
+        </div>
+    </div>
 
     <!-- Bootstrap CSS needs to be at end -->
     <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js"

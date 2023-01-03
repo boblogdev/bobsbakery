@@ -1,5 +1,5 @@
 /*  Import Fonts */
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&family=Satisfy&display=swap');
 
 .bg-color-green {
     background-color: #0a272d;
@@ -22,4 +22,46 @@
     text-transform: uppercase;
     font-family: 'Roboto', sans-serif;
     font-weight: 700;
+}
+
+.navbar-logo {
+    height: 200px;
+    width: 200px;
+}
+
+/* Hero Image */
+
+.hero-container {
+    height: 70vh;
+    background-color: #6b7b7e;
+}
+
+.hero-image {
+  height: 100%;
+  width: 100%;
+  background-image: url('https://images.unsplash.com/photo-1530548091131-36336084c705?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.overlay {
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.6);
+}
+
+.slogan-container {
+    min-height: 50%;
+    min-width: 50%;
+    margin: 0 auto;
+    position: relative;
+    top: 50%;
+}
+
+.slogan-text {
+    color: #f8e9c6; 
+    font-family: 'Satisfy'; 
+    font-size: 50px;
+    text-align: center;
 }
