@@ -71,6 +71,8 @@
 .about {
     height: 100vh;
     background-color: #0a272d;
+    padding-top: 30px;
+    padding-bottom: 30px;
 }
 
 .about-bobs {
@@ -83,9 +85,19 @@
 }
 
 
+/* Products Sample Section */
 
+.product-cards {
+    height: 100vh;
+    
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
 
-
+.product-cards div h3 {
+    text-align: center;
+    font-family: 'Satisfy', sans-serif;
+}
 
 /* Utilities */
 
