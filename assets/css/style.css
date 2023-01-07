@@ -99,6 +99,35 @@
     font-family: 'Satisfy', sans-serif;
 }
 
+
+
+/* Footer Section */
+
+footer {
+    height: 300px;
+    width: 100%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color: #0a272d;
+    color: white;
+}
+
+.social-media {
+    width: 100%;
+}
+
+.social-media i {
+    font-size: 30px;
+    padding-left: 20px;
+    color: #f8e9c6;
+}
+
+.social-media i:hover {
+    color: #fff;
+    transition: ease-in-out 0.1s;
+}
+
+
 /* Utilities */
 
 hr {
