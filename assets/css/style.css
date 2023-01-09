@@ -43,6 +43,7 @@
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
+  background-attachment: fixed;
 }
 
 .overlay {
@@ -94,6 +95,7 @@
 /* Products Sample Section */
 
 .product-cards {
+    background-color:#6b7b7e;
     padding-top: 30px;
     padding-bottom: 30px;
 }
@@ -102,7 +104,30 @@
     text-align: center;
     font-family: 'Satisfy', sans-serif;
 }
+.card {
+    background-color: #0a272d;
+    min-height: 100%;
+}
 
+.card img {
+    height: 300px;
+    width: auto;
+    object-fit: cover;
+}
+
+.card-title {
+    font-family: 'Satisfy', sans-serif;
+    font-size: 30px;
+    color: #f8e9c6;
+    border-bottom: 1px solid white;
+    padding-bottom: 10px;
+    text-align: left;
+}
+
+.card-text {
+    color: white;
+    text-align: justify;  
+}
 
 
 /* Footer Section */
