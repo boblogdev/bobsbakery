@@ -29,6 +29,11 @@
     width: 200px;
 }
 
+.dropdown-item.active, .dropdown-item:active {
+    color: #fff;
+    text-decoration: none;
+    background-color: #6b7b7e;
+}
 /* Hero Image */
 
 .hero-container {
