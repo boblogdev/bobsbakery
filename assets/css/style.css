@@ -69,7 +69,7 @@
 /* About Section */
 
 .about {
-    height: 100vh;
+    height: 600px;
     background-color: #0a272d;
     padding-top: 30px;
     padding-bottom: 30px;
@@ -88,8 +88,6 @@
 /* Products Sample Section */
 
 .product-cards {
-    height: 100vh;
-    
     padding-top: 30px;
     padding-bottom: 30px;
 }
