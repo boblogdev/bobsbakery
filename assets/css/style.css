@@ -146,13 +146,25 @@ footer {
     color: white;
 }
 
+.footer-header {
+    padding-bottom: 10px;
+    border-bottom: 1px solid #f8e9c6;
+}
+
+footer ul {
+    padding: 0;
+}
+
+footer li {
+    list-style-type: none;
+}
 .social-media {
     width: 100%;
 }
 
 .social-media i {
     font-size: 30px;
-    padding-left: 20px;
+    padding-right: 20px;
     color: #f8e9c6;
 }
 
@@ -160,7 +172,6 @@ footer {
     color: #fff;
     transition: ease-in-out 0.1s;
 }
-
 
 /* Utilities */
 
