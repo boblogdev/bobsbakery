@@ -75,7 +75,7 @@
 /* About Section */
 
 .about {
-    height: 600px;
+    min-height: 450px;
     background-color: #0a272d;
     padding-top: 30px;
     padding-bottom: 30px;
