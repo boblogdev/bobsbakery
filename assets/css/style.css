@@ -103,6 +103,7 @@
     background-color:#6b7b7e;
     padding-top: 30px;
     padding-bottom: 30px;
+    position: relative;
 }
 
 .product-cards div h3 {
@@ -173,6 +174,29 @@ footer li {
     transition: ease-in-out 0.1s;
 }
 
+.back-to-top-arrow {
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    text-align: center;
+    border: 3px solid #0a272d;
+    border-radius: 50%;
+    color: #0a272d;
+    right: 100px;
+    bottom: 13px;
+    font-size: 30px;
+}
+.back-to-top-arrow:hover {
+    color: #f8e9c6;
+    border-color: #f8e9c6;
+    transition: ease-in-out 0.3s;
+}
+
+.back-to-top-arrow:hover {
+    color: #f8e9c6;
+    border-color: #f8e9c6;
+    transition: ease-in-out 0.3s;
+}
 /* Utilities */
 
 hr {
