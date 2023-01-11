@@ -203,3 +203,11 @@ hr {
     border-bottom: 1px solid white;
     width: 50%;
 }
+
+/* Media Queries */
+@media screen and (max-width: 992px){
+    .navbar-logo {
+        display: none;
+    }
+    
+}
