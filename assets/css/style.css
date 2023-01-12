@@ -145,8 +145,8 @@
 
 .menu-card {
     height: 400px;
-    /* background-color: rgba(0, 0, 0, 0.4); */
-    /* border: 2px solid #f8e9c6; */
+    background-color: rgba(0, 0, 0, 0.4);
+    border: 2px solid #f8e9c6;
     padding: 15px;  
 }
 
@@ -161,6 +161,19 @@
     background-repeat: no-repeat;
     background-position: bottom right;
 }
+
+.menu-card-pastries-bg {
+    background-image: url('/assets/images/pastries.png');
+    background-repeat: no-repeat;
+    background-position: bottom right;
+}
+
+.menu-card-meal-bg {
+    background-image: url('/assets/images/meal.png');
+    background-repeat: no-repeat;
+    background-position: bottom right;
+}
+
 
 .menu-card-heading {
     font-family: 'Satisfy', sans-serif;
