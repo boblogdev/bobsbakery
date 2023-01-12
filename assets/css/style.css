@@ -135,7 +135,43 @@
     text-align: justify;  
 }
 
+/* Menu */
 
+.menu-section {
+    height: 1000px;
+    background-color: #0a272d;
+}
+
+.menu-card {
+    height: 400px;
+    background-color: rgba(0, 0, 0, 0.4);
+    border: 2px solid #f8e9c6;
+    padding: 15px;
+    
+}
+
+.menu-card-heading {
+    font-family: 'Satisfy', sans-serif;
+    color: #f8e9c6;
+}
+
+.menu-card table {
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+.menu-card th {
+    color: #f8e9c6;
+}
+
+.menu-card td {
+    color: #fff;
+}
+
+.menu-card-footer {
+    text-align: center;
+    color:#f8e9c6;
+}
 /* Footer Section */
 
 footer {
@@ -202,6 +238,10 @@ footer li {
 hr {
     border-bottom: 1px solid white;
     width: 50%;
+}
+
+.hr-border-bottom {
+    border-bottom: 2px solid #f8e9c6;
 }
 
 /* Media Queries */
