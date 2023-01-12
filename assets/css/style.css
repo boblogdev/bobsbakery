@@ -138,7 +138,7 @@
 /* Menu */
 
 .menu-section {
-    height: 1000px;
+    min-height: 100%;
     background-color: #0a272d;
 }
 
