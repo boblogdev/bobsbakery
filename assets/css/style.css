@@ -142,12 +142,24 @@
     background-color: #0a272d;
 }
 
+
 .menu-card {
     height: 400px;
-    background-color: rgba(0, 0, 0, 0.4);
-    border: 2px solid #f8e9c6;
-    padding: 15px;
-    
+    /* background-color: rgba(0, 0, 0, 0.4); */
+    /* border: 2px solid #f8e9c6; */
+    padding: 15px;  
+}
+
+.menu-card-cakes-bg {
+    background-image: url('/assets/images/cake.png');
+    background-repeat: no-repeat;
+    background-position: bottom right;
+}
+
+.menu-card-bread-bg {
+    background-image: url('/assets/images/bread.png');
+    background-repeat: no-repeat;
+    background-position: bottom right;
 }
 
 .menu-card-heading {
@@ -172,6 +184,8 @@
     text-align: center;
     color:#f8e9c6;
 }
+
+
 /* Footer Section */
 
 footer {
