@@ -114,6 +114,7 @@
     background-color: #06171B;
     min-height: 100%;
     border: none;
+    width: 100%;
 }
 
 .card img {
@@ -199,6 +200,21 @@
     color:#f8e9c6;
 }
 
+/* Reviews Section */
+
+.reviews-section {
+    min-height: 100%; 
+    background-color: #0a272d;
+}
+
+.stars {
+    font-size: 25px;
+    color: #f8e9c6;
+}
+
+.customer-name {
+    color: #f8e9c6;
+}
 
 /* Footer Section */
 
