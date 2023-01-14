@@ -216,6 +216,19 @@
     color: #f8e9c6;
 }
 
+/* Gallery */
+
+.gallery-section {
+    background-color: #0a272d;
+    min-height: 100%;
+}
+
+.gallery-image {
+    min-height: 300px;
+    width: 100%;
+    object-fit: cover;
+}
+
 /* Footer Section */
 
 footer {
