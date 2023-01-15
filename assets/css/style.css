@@ -233,6 +233,22 @@
     color: #f8e9c6;
 }
 
+/* Contact Section */
+
+.contact-section {
+    background-color: #0a272d;
+    min-height: 600px; 
+}
+
+/* Contact Form Override */
+
+label {
+    color: #f8e9c6;
+}
+
+.text-muted {
+    color: #f8e9c6!important;
+}
 /* Footer Section */
 
 footer {
@@ -303,6 +319,26 @@ hr {
 
 .hr-border-bottom {
     border-bottom: 2px solid #f8e9c6;
+}
+
+.page-heading { 
+    color:#f8e9c6;
+    font-family: 'Satisfy', sans-serif;
+    text-shadow: 4px  4px #06171B;
+}
+
+/* Bootstrap Overrides */
+
+.btn-primary {
+    color: #f8e9c6;
+    background-color: #06171B;
+    border: none;
+}
+
+.btn-primary:hover {
+    color: #0a272d;
+    background-color: #f8e9c6;
+    border: none;
 }
 
 /* Media Queries */
