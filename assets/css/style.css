@@ -229,6 +229,10 @@
     object-fit: cover;
 }
 
+.figure-caption {
+    color: #f8e9c6;
+}
+
 /* Footer Section */
 
 footer {
