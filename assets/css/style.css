@@ -41,7 +41,7 @@ body {
 
 .hero-container {
     height: 70vh;
-    background-color: #6b7b7e;
+    background-color: inherit;
 }
 
 .hero-image {
@@ -240,8 +240,17 @@ body {
 
 .contact-section {
     background-color: #0a272d;
-    min-height: 600px; 
 }
+
+.contact-hero-image {
+    height: 100%;
+    width: 100%;
+    background-image: url('https://images.unsplash.com/photo-1511018556340-d16986a1c194?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+  }
 
 /* Contact Form Override */
 
@@ -315,9 +324,9 @@ footer li {
 }
 /* Utilities */
 
-hr {
+hr.full-width-white {
     border-bottom: 1px solid white;
-    width: 50%;
+    width: 100%;
 }
 
 .hr-border-bottom {
@@ -327,7 +336,6 @@ hr {
 .page-heading { 
     color:#f8e9c6;
     font-family: 'Satisfy', sans-serif;
-    text-shadow: 4px  4px #06171B;
 }
 
 /* Bootstrap Overrides */
