@@ -136,7 +136,8 @@ body {
 
 .card-text {
     color: white;
-    text-align: justify;  
+    text-align: justify; 
+    padding-bottom: 20px; 
 }
 
 /* Menu */
@@ -217,6 +218,7 @@ body {
 
 .customer-name {
     color: #f8e9c6;
+    padding: 20px;
 }
 
 /* Gallery */
@@ -350,6 +352,12 @@ hr.full-width-white {
     color: #0a272d;
     background-color: #f8e9c6;
     border: none;
+}
+
+.fixed-bottom {
+    position: absolute;
+    bottom: 0px;
+    left: 20px;
 }
 
 /* Media Queries */
