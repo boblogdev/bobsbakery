@@ -10,10 +10,10 @@ Head to the deployed site at [Bob's Bakery](https://www.example.com).
 
 
 ## Table of Contents
-- User Experience(UX) <!-- replace with links -->
+- User Experience(UX) 
   - Initial Discussion
   - Demographic
-  - User Stories <!-- replace with links -->
+  - User Stories 
 
 
 ## User Experience
@@ -91,8 +91,14 @@ Above I have listed documented some trade-offs and I will explain the reasoning 
 
 We wanted to use a colour scheme that wasn't going to distract too much from the text but also make the website pop, and look fun. From the competitors websites, I found a lot of local bakeries were tending to use pastel type colours.
 
-![alt text](assets/images/bobsbakerycolors.png "Bob's Bakery Colour Scheme")
+<img src="assets/images/bobs-bakery-colors.png" width="400" height="300" /> 
 
+
+NOTE:
+
+I felt that the color scheme did not accurately represent the atmosphere and values of Bob's Bakery, and it did not match the theme of being "Warm and Welcoming." The color scheme below is what was used in the final product.
+
+<img src="assets/images/bobs-bakery-colors-amended.png" width="400" height="300" /> 
 
 ### Typography
 
@@ -104,6 +110,8 @@ Font weights for Roboto are regular(400) and medium(500). Regular is used for th
 
 Being a local, family-owned bakery, we decided to opt in for images that are warm & welcoming. Using imagery we want to also convey that the bakery is open to all.
 
+[Unsplash](https://unplash.com "Unsplash Free Images & Pictures") <br>
+[Pexels](https://www.pexels.com/ "Pexels Stock Photo Site")
 ### Wireframes & Sitemap
 
 Bob's Bakery Sitemap
@@ -118,4 +126,27 @@ The sitemap allows me to get an high-level view view of how the user will naviga
 
 [Desktop Wireframe](assets/readme/desktop.png)
 
+Wireframes were initially created using [Balsamiq](https://balsamiq.com/wireframes/ "Balsamiq Wireframes Software") on Ubuntu however there were some limitations which resulted in me switching to Windows 10 version.
 
+
+## Technologies Used
+
+### Languages Used 
+* HTML and CSS
+* JavaScript - however this was the Hamburger Dropdown from Bootstrap.
+
+### Software, Frameworks & Libraries Used
+
+* [Balsamiq](https://www.balsamiq.com/wireframes "Balsamiq Wireframing Tool") was used to create the wireframes/sitemap for the site.
+* [Bootstrap Version 4.6 ](https://getbootstrap.com/docs/4.6/getting-started/introduction/ "Bootstrap Framework") was used to create the navigation bar, cards and form. They were modified to my suit needs. As a personal note to future myself, whilst Bootstrap is a excellent framework to get stuck into I feel it pulls away from the practising of core CSS, resulting in a lot of overriding.
+* [Canva](https://www.canva.com/ "Canva") was used to create Bob's Bakery Logo, Favicon and to also get some potential ideas. This was also used to create the menu pdf shown in the navbar.
+* [Font Awesome](https://fontawesome.com/icons "Font Awesome 6.2.1 Free Icons") was used for the stars icons seen on the reviews page and the social media icons in the footer.
+* [Firefox Developer Edition](https://www.mozilla.org/en-GB/firefox/developer/ "Firefox Developer Edition") this was used to find out specific measurements with the ruler tool so that each page had exactly the same padding between the last section row and footer.
+* [Google Fonts](fonts.google.com "Google Fonts") we used the Satisfy font and also the Roboto font. These can been seen in action as page-headings/slogan-text and in the navbar.
+* Google Dev Tools were utilized to identify and resolve problems related to responsiveness and appearance. 
+* [Github](https://github.com/ "Github") was used to store my project in a repository. 
+* [Git](https://git-scm.com/ "Git Version Control") was used for Version Control.
+* [Google](https://www.google.co.uk "Google Search Engine") was used to research HTML & CSS.
+* [Gitpod](https:://www.gitpod.io "Gitpod Cloud IDE") the vast majority of my time was spent inside GitPod's VSCode Cloud IDE.
+* CDNs [Cloudflare](https://www.cloudflare.com/en-gb/learning/what-is-cloudflare/ "Cloudflare CDN") and  [JsDelivr](https://www.jsdelivr.com/ "JsDelivr") were used for Font Awesome icons CSS minified and Bootstrap 4.6 CSS minified.
+* Pomodoro Timer - to stop me from procrastinating.
