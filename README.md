@@ -170,9 +170,21 @@ A footer is inluded across all pages of the site with opening times, social medi
   * contains a 3x3 responsive grid with numerous Bob's Bakery products and small description underneath of what the product is.
 
 * Contact Page:- 
-  * contains a contact form which can be used for ordering or any other query. 
+  * contains a contact form which can be used for ordering or any other query. As part of form validation I have set the name, email and customer query fields to required. This prompts the user to enter details if they have been missed. The form can be submitted using the submit button which POSTS to https://formdump.codeinstitute.net and returns values entered. 
   * the address of Bob's Bakery and directions from the A1, Gateshead Metro Interchange and Newcastle Central Station.
   * contains a functional Google Map embed of the location of Bob's bakery. In the future I could potentially add pins to the map to show the exact location, using JavaScript.
+
+In future implementations I intend to:- 
+* add pins to the Google Embed page using JavaScript
+* use JavaScript and JSON to send customer orders via email(contact form) to build a more robust and intuitive order form. *Note: Not entirely sure if this possibly with the technologies chosen.
+
+## Accessibility
+
+Whilst coding the site I have ensured that the site is accesible for all. This is achieve by using:-
+
+* Using Google Dev tools to check contrast of items. 
+* Using alt tags to describe the images on site.
+* Using semantic HTML
 
 
 ## Technologies Used
@@ -196,3 +208,4 @@ A footer is inluded across all pages of the site with opening times, social medi
 * [Gitpod](https:://www.gitpod.io "Gitpod Cloud IDE") the vast majority of my time was spent inside GitPod's VSCode Cloud IDE.
 * CDNs [Cloudflare](https://www.cloudflare.com/en-gb/learning/what-is-cloudflare/ "Cloudflare CDN") and  [JsDelivr](https://www.jsdelivr.com/ "JsDelivr") were used for Font Awesome icons CSS minified and Bootstrap 4.6 CSS minified.
 * Pomodoro Timer - to stop me from procrastinating.
+* [Trello](https://trello.com "Trello") was used to try and keep track of To-Dos and Completed Tasks. 
