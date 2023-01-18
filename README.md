@@ -82,6 +82,8 @@ Above I have listed documented some trade-offs and I will explain the reasoning 
 - Click & Collect
   - In order to get a click & collect system similar(Just-Eat) to other sites I would need to expand my knowledge.This isn't something I feel I have the knowledge for at the moment, so the feasiblity for it scores a one. However, this doesn't mean that it won't be implemented in future updates.
 
+  *Note: Upon looking at the logistics of the click & collect system I realised that it doesn't necessarily have to be as complicated as Just-Eat. Customers can use the contact form to essentially order from the menu. 
+
 - Email marketing
   - This could involve a signup form and database of customer emails. There is technology that would handle this for me however I don't feel I have the time or knowledge to implement this.
 
@@ -127,6 +129,50 @@ The sitemap allows me to get an high-level view view of how the user will naviga
 [Desktop Wireframe](assets/readme/desktop.png)
 
 Wireframes were initially created using [Balsamiq](https://balsamiq.com/wireframes/ "Balsamiq Wireframes Software") on Ubuntu however there were some limitations which resulted in me switching to Windows 10 version.
+
+### Features
+
+Bob's Bakery website consists of 5 pages(Homepage, Products, Reviews, Gallery and Contact).
+
+Features in common across the site include:-
+
+* A responsive navigation bar across the top of the site. This allows users on different screen sizes to view the same site on any device. In the centre of the navbar we have the Bob's Bakery logo and on either side there are navigation links:-
+
+    *  Products - links to the products page with 4 individual menus(Cakes, Breads, Pastries and Meal Deals)
+        * Cakes
+        * Breads
+        * Pastries
+        * Meal Deals 
+        * Download Menu - downloads the product menu as a pdf.
+    *  Reviews - navigates to Bob's Bakery customer reviews.
+    * Bob's Bakery Logo - navigates back to the index.html page or more commonly known as home. The logo moves from the centre of the navbar on devices smaller than 992px to the left-hand side creating a better user experience. 
+    * Gallery - navigates to a 3x3 grid gallery of Bob's Bakery products.
+    * Contact - navigates to the contact page which includes a form, address and google map embed.
+
+There is also a hamburger menu icon included in the navbar which allows for a better user experience on smaller devices. On each page where applicable there is also a back to top button which also allows for a better user experience.
+
+A footer is inluded across all pages of the site with opening times, social media icons which open in a new window and the Bakery address.
+
+* Home page:- 
+  * A hero image of various baking produce(baguettes, cobs and loaves). Along with the navbar logo, this helps the user understand almost immediately what the site is about.
+  * A thought provoking phrase, "Where every bite is a taste of home!".
+  * About Section contains a short paragraph about Bob's Bakery, introducing the customer to who we are and our mission to be a "cornerstone of the Gateshead community".
+  * A three card sample products section with individual descriptions of what Bob's Bakery offers.
+      
+* Products Page:-
+  * contains 4 menus each relating to the dropdown menu navigation links. Included are the prices of each item and a footnote for the menu detailing services relating to that category.
+
+* Reviews Page:- 
+  * contains 3 cards with a star rating system. Underneath the star rating there is also a short review about the product the customer bought. 
+  * each card contains a customer-name in the footer of the card to add a sign of authenticity to the review.
+
+* Gallery Page:-
+  * contains a 3x3 responsive grid with numerous Bob's Bakery products and small description underneath of what the product is.
+
+* Contact Page:- 
+  * contains a contact form which can be used for ordering or any other query. 
+  * the address of Bob's Bakery and directions from the A1, Gateshead Metro Interchange and Newcastle Central Station.
+  * contains a functional Google Map embed of the location of Bob's bakery. In the future I could potentially add pins to the map to show the exact location, using JavaScript.
 
 
 ## Technologies Used
