@@ -149,7 +149,6 @@ body {
     background-color: rgba(0, 0, 0, 0.4);
     border: 2px solid #f8e9c6;
     padding: 15px; 
-    margin-bottom: 30px;
 }
 
 .menu-card-cakes-bg {
@@ -305,8 +304,8 @@ footer li {
     border: 3px solid #6b7b7e;
     border-radius: 50%;
     color: #6b7b7e;
-    right: 100px;
-    bottom: 13px;
+    top: -75px;
+    right: 50px;
     font-size: 30px;
 }
 .back-to-top-arrow:hover {
@@ -360,6 +359,19 @@ hr.full-width-white {
 @media screen and (max-width: 991px){
     .navbar-logo {
         display: none;
+    }
+
+    .back-to-top-arrow {
+        height: 50px;
+        width: 50px;
+        position: absolute;
+        text-align: center;
+        border: 3px solid #6b7b7e;
+        border-radius: 50%;
+        color: #6b7b7e;
+        top: -300px;
+        right: 20px;
+        font-size: 30px;
     }
     
 }
