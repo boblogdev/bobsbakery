@@ -195,10 +195,18 @@ body {
 }
 
 .menu-card-footer {
-    text-align: center;
+    text-align: left;
     color:#f8e9c6;
+    position: absolute;
+    bottom: 0px;
 }
 
+.call-us {
+    color: #f8e9c6;
+    text-align: center;
+    position: relative;
+    top: -60px;
+}
 /* Reviews Section */
 
 .reviews-section {
@@ -372,6 +380,13 @@ hr.full-width-white {
         top: -300px;
         right: 20px;
         font-size: 30px;
+    }
+
+    .menu-card-footer {
+        color: #f8e9c6;
+        position: absolute;
+        bottom: 0px;
+        font-size: small;
     }
     
 }
