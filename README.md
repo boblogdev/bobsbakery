@@ -2,7 +2,7 @@
 
 This site was created to showcase my amazing skills as a baker(and aspiring Web Developer). The site is designed to be responsive, intuitive and accessible. 
 
-<!-- add amiresponsive screenshot of responsive site when created -->
+![Bob's Bakery Website](assets/images/4-device-screenshot-amiresponsive.png)
 
 Fancy stepping into the world of baked goods? 
 
