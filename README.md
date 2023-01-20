@@ -313,6 +313,32 @@ I used the W3C Markup Validation Service on all pages of Bob's Bakery. I also va
  The Contact page Lighthouse results can be found here [Contact Page Lighthouse](assets/readme/docs/contact-lighthouse.png)
 ### Manual Testing
 
+As I proceeded through the development phase I consistently checked each page to make sure that they were responsive. I achieved this by utilizing Chrome Dev Tools, Firefox Developer edition and my own Samsung A72.
+
+* Each link on each page was clicked to verify that it goes to the correct page.
+* Social media links were clicked on each page to verify that they opened in new windows and the correct page.
+* The Bob's Bakery logo was clicked to verify that it went back to index.html.
+
+#### Mobile
+
+The navbar for mobile is replicated through the entire site so I have only provided the single screenshot for the mobile navbar and footer. 
+![Navbar Mobile](assets/readme/docs/mobile-navbar.png)
+The results for the mobile navbar are as expected.
+
+![Navbar Footer](assets/readme/docs/mobile-footer.png)
+The results for the mobile footer are as expected. The back-to-top button also displays in the correct way on mobile across each page.
+
+![Index Mobile Card](assets/readme/docs/index-mobile-card.png)
+Screenshot of the index page cards on mobile are as expected.
+![Products](assets/readme/docs/products-mobile.png)
+Screenshot of the products page on mobile are as expected.
+![Reviews](assets/readme/docs/reviews-mobile.png)
+Screenshot of the reviews page on mobile are as expected.
+![Gallery](assets/readme/docs/gallery-mobile.png)
+Screenshot of the gallery page on mobile are as expected.
+![Contact](assets/readme/docs/contact-mobile.png)
+Screenshot of the contact page on mobile are as expected.
+
 ## Deployment & Local Development
 
 ### Deploying to Github Pages
