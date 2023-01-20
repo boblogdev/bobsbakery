@@ -6,7 +6,7 @@ This site was created to showcase my amazing skills as a baker(and aspiring Web 
 
 Fancy stepping into the world of baked goods? 
 
-Head to the deployed site at [Bob's Bakery](https://www.example.com).
+Head to the deployed site at [Bob's Bakery](https://boblogdev.github.io/bobsbakery/).
 
 
 ## Table of Contents
