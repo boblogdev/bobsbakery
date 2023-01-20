@@ -362,12 +362,38 @@ Using Chrome Developer tools each page was verified to be working correctly.
 
 ### Deploying to Github Pages
 
+* Choose the repository you want to deploy from the main overview.
+* Go to settings by clicking on the icon on the menu.
+* In the left navigation, select the "Pages" option.
+* Under "Source", choose "Master" branch and click "Save".
+* After it's done, you will see a message saying "Your site is ready to be published at (insert url here)".
+
 ### Local Development
 #### How To Fork
+
+Forking a repository is the process of creating a copy of the original repository. This enables you to make changes without affecting the main repository. 
+
+To do so:-
+* go to the GitHub repository you want to copy.
+* select the 'Fork' button located in the top right corner, under your profile icon. 
+* Once complete, you will now have your own version of the repository to make changes to.
+
 #### How To Clone
 
-## Credits
+To copy a GitHub repository:-
+* first navigate to the repository you wish to copy. 
+* click on the 'Code' button (which has a download icon) and copy the link provided.
+* in the Gitpod Terminal, navigate to the directory where you wish to place the clone. Then, type 'git clone' and paste the link you copied earlier and press enter. This process can also be completed using VSCode.
 
+## Credits
 ### Images
 
+Handle The Heat.com
+Pexels
+Unsplash
+
 ### Acknowledgement
+
+* Mitko Mentor - came up with some things I'd never even thought of and was a really good guide.
+* NCL Students in my Cohort - always offering help and solutions or a shoulder to cry on.
+* Callum Jones - for turning up consistently and offering helpful advice and tips.
