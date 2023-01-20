@@ -10,10 +10,43 @@ Head to the deployed site at [Bob's Bakery](https://www.example.com).
 
 
 ## Table of Contents
-- User Experience(UX) 
-  - Initial Discussion
-  - Demographic
-  - User Stories 
+* [User Experience](#User-Experience)
+  * Initial Discussion
+  * Demographic
+  * User Stories 
+  * Strategic Tradeoffs
+* Design
+  * Colour Scheme
+  * Typography
+  * Imagery
+  * Wireframes & Sitemap
+  * Features
+  * Future Implementations
+  * Accessibility
+* Technologies Used
+  * Languages Used
+  * Software, Frameworks & Libraries Used
+* Testing
+  * Validation
+  * Fixed Bugs
+  * Known Issues
+  * Testing User Stories
+  * Lighthouse
+    * Index Page
+    * Products Page
+    * Reviews Page
+    * Gallery Page
+    * Contact Page
+  * Manual Testing
+* Deployment 
+  * Deployment
+    * Deploying to Github Pages
+  * Local Development
+    * How to Fork
+    * How to Clone
+  * Credits
+    * Images
+    * Acknowledgement
 
 
 ## User Experience
@@ -174,11 +207,11 @@ A footer is inluded across all pages of the site with opening times, social medi
   * the address of Bob's Bakery and directions from the A1, Gateshead Metro Interchange and Newcastle Central Station.
   * contains a functional Google Map embed of the location of Bob's bakery. In the future I could potentially add pins to the map to show the exact location, using JavaScript.
 
-In future implementations I intend to:- 
+### Future Implementations
 * add pins to the Google Embed page using JavaScript
 * use JavaScript and JSON to send customer orders via email(contact form) to build a more robust and intuitive order form. *Note: Not entirely sure if this possibly with the technologies chosen.
 
-## Accessibility
+### Accessibility
 
 Whilst coding the site I have ensured that the site is accesible for all. This is achieve by using:-
 
