@@ -11,42 +11,41 @@ Head to the deployed site at [Bob's Bakery](https://www.example.com).
 
 ## Table of Contents
 * [User Experience](#User-Experience)
-  * Initial Discussion
-  * Demographic
-  * User Stories 
-  * Strategic Tradeoffs
-* Design
-  * Colour Scheme
-  * Typography
-  * Imagery
-  * Wireframes & Sitemap
-  * Features
-  * Future Implementations
-  * Accessibility
-* Technologies Used
-  * Languages Used
-  * Software, Frameworks & Libraries Used
-* Testing
-  * Validation
-  * Fixed Bugs
-  * Known Issues
-  * Testing User Stories
-  * Lighthouse
-    * Index Page
-    * Products Page
-    * Reviews Page
-    * Gallery Page
-    * Contact Page
-  * Manual Testing
-* Deployment 
-  * Deployment
-    * Deploying to Github Pages
-  * Local Development
-    * How to Fork
-    * How to Clone
-  * Credits
-    * Images
-    * Acknowledgement
+  * [Initial Discussion](#Initial-Discussion)
+  * [Demographic](#Demographic)
+  * [User Stories](#User-Stories) 
+  * [Strategic Trade offs](#Strategic-Trade-offs)
+* [Design](#Design)
+  * [Colour Scheme](#Colour-Scheme)
+  * [Typography](#typography)
+  * [Imagery](#Imagery)
+  * [Wireframes/Sitemap](#Wireframes/Sitemap)
+  * [Features](#Features)
+  * [Future Implementations](#Future-Implementations)
+  * [Accessibility](#Accessibility)
+* [Technologies Used](#Technologies-Used)
+  * [Languages Used](#Languages-Used)
+  * [Software, Frameworks & Libraries Used](#Software,-Frameworks-&-Libraries-Used)
+* [Testing](#Testing)
+  * [Validation](#Validation)
+  * [Fixed Bugs](#Fixed-Bugs)
+  * [Known Issues](#Known-Issues)
+  * [Testing User Stories](#Testing-User-Stories)
+  * [Lighthouse](#Lighthouse)
+    * [Index Page](#Index-Page)
+    * [Products Page](#Products-Page)
+    * [Reviews Page](#Reviews-Page)
+    * [Gallery Page](#Gallery-Page)
+    * [Contact Page](#Contact-Page)
+  * [Manual Testing](#Manual-Testing)
+* [Deployment & Local Development](#Deployment-&-Local-Development)
+  * [Deploying to Github Pages](#Deploying-to-Github-Pages)
+  * [Local Development](#Local-Development)
+    * [How to Fork](#How-to-Fork)
+    * [How to Clone](#How-to-Clone)
+  * [Credits](#Credits)
+    * [Images](#Images)
+    * [Acknowledgement](#Acknowledgement)
 
 
 ## User Experience
@@ -147,7 +146,7 @@ Being a local, family-owned bakery, we decided to opt in for images that are war
 
 [Unsplash](https://unplash.com "Unsplash Free Images & Pictures") <br>
 [Pexels](https://www.pexels.com/ "Pexels Stock Photo Site")
-### Wireframes & Sitemap
+### Wireframes/Sitemap
 
 Bob's Bakery Sitemap
 
@@ -242,3 +241,31 @@ Whilst coding the site I have ensured that the site is accesible for all. This i
 * CDNs [Cloudflare](https://www.cloudflare.com/en-gb/learning/what-is-cloudflare/ "Cloudflare CDN") and  [JsDelivr](https://www.jsdelivr.com/ "JsDelivr") were used for Font Awesome icons CSS minified and Bootstrap 4.6 CSS minified.
 * Pomodoro Timer - to stop me from procrastinating.
 * [Trello](https://trello.com "Trello") was used to try and keep track of To-Dos and Completed Tasks. 
+
+## Testing
+
+### Validation
+### Fixed Bugs
+### Known Issues
+### Testing User Stories
+### Lighthouse
+ #### Index Page
+ #### Products Page
+ #### Reviews Page
+ #### Gallery Page
+ #### Contact Page
+### Manual Testing
+
+## Deployment & Local Development
+
+### Deploying to Github Pages
+
+### Local Development
+#### How To Fork
+#### How To Clone
+
+## Credits
+
+### Images
+
+### Acknowledgement
