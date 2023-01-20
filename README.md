@@ -341,6 +341,23 @@ Screenshot of the gallery page on mobile are as expected.
 <img src="assets/readme/docs/contact-mobile.png" height="640" width="360" alt="mobile contact view">
 Screenshot of the contact page on mobile are as expected.
 
+#### Tablet 
+
+Each page was tested on tablet Surface Pro 7 emulation via Chrome Dev Tools. 
+I have attached a full page screenshot shown here [Full Page Index Screenshot Tablet](assets/readme/docs/index-tablet-screenshot.png). 
+Each page works as expected.
+
+#### Desktop
+
+Using Chrome Developer tools each page was verified to be working correctly.
+
+* [Index Page Screenshot](assets/readme/docs/index-desktop-screenshot.png)
+* [Products Page Screenshot](assets/readme/docs/products-desktop-screenshot.png)
+* [Reviews Page Screenshot](assets/readme/docs/reviews-desktop-screenshot.png)
+* [Gallery Page Screenshot](assets/readme/docs/gallery-desktop-screenshot.png)
+* [Contact Page Screenshot](assets/readme/docs/contact-desktop-screenshot.png)
+
+
 ## Deployment & Local Development
 
 ### Deploying to Github Pages
