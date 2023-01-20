@@ -262,8 +262,8 @@ I used the W3C Markup Validation Service on all pages of Bob's Bakery. I also va
   * Result - using devTools in Chrome it was narrowed down to the bootstrap scss reboot targeting the body class.
   * Fix - adding the bootstrap class "text-center" to the products navigation link which fixed the issue by overriding the above.
 
-[Products DD Bug](assets/readme/docs/products-dd-bug.png)
-[Products DD Fix](assets/readme/docs/products-dd-fix.png)
+![Products DD Bug](assets/readme/docs/products-dd-bug.png)
+![Products DD Fix](assets/readme/docs/products-dd-fix.png)
 
 
 ### Known Issues
@@ -271,7 +271,7 @@ I used the W3C Markup Validation Service on all pages of Bob's Bakery. I also va
 * Issue 1:
   * Bob's Bakery Logo does not sit centralized to the page. 
   * On further inspection this look as though it is the caret on products that is pushing out ever so slightly. See below:-
-  [Bob's Bakery Logo](assets/readme/docs/products-caret-known-issue.png)
+  ![Bob's Bakery Logo](assets/readme/docs/products-caret-known-issue.png)
   
 
 ### Testing User Stories
@@ -302,11 +302,15 @@ I used the W3C Markup Validation Service on all pages of Bob's Bakery. I also va
   ![Click & Collect](assets/readme/docs/click-collect-user-goal.png)
 ### Lighthouse
  #### Index Page
-
+ The Index page Lighthouse results can be found here [Index Page Lighthouse](assets/readme/docs/index-lighthouse.png)
  #### Products Page
+ The Products page Lighthouse results can be found here [Index Page Lighthouse](assets/readme/docs/products-lighthouse.png)
  #### Reviews Page
+ The Reviews page Lighthouse results can be found here [Index Page Lighthouse](assets/readme/docs/reviews-lighthouse.png)
  #### Gallery Page
+ The Gallery page Lighthouse results can be found here [Index Page Lighthouse](assets/readme/docs/gallery-lighthouse.png)
  #### Contact Page
+ The Contact page Lighthouse results can be found here [Index Page Lighthouse](assets/readme/docs/contact-lighthouse.png)
 ### Manual Testing
 
 ## Deployment & Local Development
