@@ -278,24 +278,31 @@ I used the W3C Markup Validation Service on all pages of Bob's Bakery. I also va
 
 * First Time Visitor Goals
   *  I want to be able to navigate the site easily.
-  [Navigate Easily](assets/readme/docs/navbar-user-goal.png)
+  ![Simple Navbar](assets/readme/docs/navbar-user-goal.png)
+  I opted for a simple navigation bar which allows the user to navigate to each section of the site.
   *  To display a wide range of produce on the site.
-  [Display Wide Range Produce](assets/readme/docs/display-produce-user-goal.png)
+  ![Display Wide Range Produce](assets/readme/docs/display-produce-user-goal.png)
+  Both the products page(which has a menu) and gallery page show what Bob's Bakery offers.
   * I want to find out opening times and location.
-  [Opening Times and Location](assets/readme/docs/opening-hours-location-user-goal.png)
+ ![Opening Times and Location](assets/readme/docs/opening-hours-location-user-goal.png)
+ The times and location can be found on the footer of each page but I have added a google map embed on the contact page to show exactly where abouts Bob's Bakery is located.
   * I want to find out about the services offered.
-  [Services Offered](assets/readme/docs/services-offered-user-goal.png)
+  ![Services Offered](assets/readme/docs/services-offered-user-goal.png)
+  Services offered are located at the bottom of the products page.
 * Returning Visitor Goals
   * As a returning visitor, I want to find out about new products.
-  [New Products](assets/readme/docs/new-products-user-goal.png)
+  ![New Products](assets/readme/docs/new-products-user-goal.png)
+  The user can always find new products located within our menus, particularly the meal deals.
   * As a returning visitor, I want to be able to access their social media.
-  [Social Media](assets/readme/docs/social-media-user-goal.png)
+  ![Social Media](assets/readme/docs/social-media-user-goal.png)
+  The social media icons at the bottom of the site allow for the user to interact with us on social media.
 * Frequent Visitor Goals
   * As a returning visitor, I want to be able to order items for click and collect.
   This is mentioned in the strategic tradeoffs section as it was not feasible to complete such a service similar to Just-Eat. We can however use the contact form to order in the "How can we help you today?" box.
-  [Click & Collect](assets/readme/docs/click-collect-user-goal.png)
+  ![Click & Collect](assets/readme/docs/click-collect-user-goal.png)
 ### Lighthouse
  #### Index Page
+
  #### Products Page
  #### Reviews Page
  #### Gallery Page
