@@ -245,7 +245,18 @@ Whilst coding the site I have ensured that the site is accesible for all. This i
 ## Testing
 
 ### Validation
+I used the W3C Markup Validation Service on all pages of Bob's Bakery. I also validated the my own style.css with the CSS Validator.
+
+* [Index Page HTML](assets/readme/docs/bobsbakery-index-validation.png)
+* [Products Page HTML](assets/readme/docs/bobsbakery-products-validation.png)
+* [Reviews Page HTML](assets/readme/docs/bobsbakery-reviews-validation.png)
+* [Gallery Page HTML](assets/readme/docs/bobsbakery-gallery-validation.png)
+* [Contact Page HTML](assets/readme/docs/bobsbakery-contact-validation.png)
+* [Stylesheet style.css](assets/readme/docs/bobsbakery-jigsaw-w3-org-css-validator.png) 
+
 ### Fixed Bugs
+
+
 ### Known Issues
 ### Testing User Stories
 ### Lighthouse
