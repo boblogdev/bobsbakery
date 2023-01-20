@@ -256,9 +256,44 @@ I used the W3C Markup Validation Service on all pages of Bob's Bakery. I also va
 
 ### Fixed Bugs
 
+* Bug 1:
+  * Expected - expected the products link to stay above the other navigation items and uniform on smaller screens.
+  * Testing - resizing the browser window to 991px to replicate the error.
+  * Result - using devTools in Chrome it was narrowed down to the bootstrap scss reboot targeting the body class.
+  * Fix - adding the bootstrap class "text-center" to the products navigation link which fixed the issue by overriding the above.
+
+[Products DD Bug](assets/readme/docs/products-dd-bug.png)
+[Products DD Fix](assets/readme/docs/products-dd-fix.png)
+
 
 ### Known Issues
+
+* Issue 1:
+  * Bob's Bakery Logo does not sit centralized to the page. 
+  * On further inspection this look as though it is the caret on products that is pushing out ever so slightly. See below:-
+  [Bob's Bakery Logo](assets/readme/docs/products-caret-known-issue.png)
+  
+
 ### Testing User Stories
+
+* First Time Visitor Goals
+  *  I want to be able to navigate the site easily.
+  [Navigate Easily](assets/readme/docs/navbar-user-goal.png)
+  *  To display a wide range of produce on the site.
+  [Display Wide Range Produce](assets/readme/docs/display-produce-user-goal.png)
+  * I want to find out opening times and location.
+  [Opening Times and Location](assets/readme/docs/opening-hours-location-user-goal.png)
+  * I want to find out about the services offered.
+  [Services Offered](assets/readme/docs/services-offered-user-goal.png)
+* Returning Visitor Goals
+  * As a returning visitor, I want to find out about new products.
+  [New Products](assets/readme/docs/new-products-user-goal.png)
+  * As a returning visitor, I want to be able to access their social media.
+  [Social Media](assets/readme/docs/social-media-user-goal.png)
+* Frequent Visitor Goals
+  * As a returning visitor, I want to be able to order items for click and collect.
+  This is mentioned in the strategic tradeoffs section as it was not feasible to complete such a service similar to Just-Eat. We can however use the contact form to order in the "How can we help you today?" box.
+  [Click & Collect](assets/readme/docs/click-collect-user-goal.png)
 ### Lighthouse
  #### Index Page
  #### Products Page
