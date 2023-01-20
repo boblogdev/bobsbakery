@@ -304,13 +304,13 @@ I used the W3C Markup Validation Service on all pages of Bob's Bakery. I also va
  #### Index Page
  The Index page Lighthouse results can be found here [Index Page Lighthouse](assets/readme/docs/index-lighthouse.png)
  #### Products Page
- The Products page Lighthouse results can be found here [Index Page Lighthouse](assets/readme/docs/products-lighthouse.png)
+ The Products page Lighthouse results can be found here [Products Page Lighthouse](assets/readme/docs/products-lighthouse.png)
  #### Reviews Page
- The Reviews page Lighthouse results can be found here [Index Page Lighthouse](assets/readme/docs/reviews-lighthouse.png)
+ The Reviews page Lighthouse results can be found here [Reviews Page Lighthouse](assets/readme/docs/reviews-lighthouse.png)
  #### Gallery Page
- The Gallery page Lighthouse results can be found here [Index Page Lighthouse](assets/readme/docs/gallery-lighthouse.png)
+ The Gallery page Lighthouse results can be found here [Gallery Page Lighthouse](assets/readme/docs/gallery-lighthouse.png)
  #### Contact Page
- The Contact page Lighthouse results can be found here [Index Page Lighthouse](assets/readme/docs/contact-lighthouse.png)
+ The Contact page Lighthouse results can be found here [Contact Page Lighthouse](assets/readme/docs/contact-lighthouse.png)
 ### Manual Testing
 
 ## Deployment & Local Development
