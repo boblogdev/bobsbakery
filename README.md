@@ -326,18 +326,19 @@ The navbar for mobile is replicated through the entire site so I have only provi
 <img src="assets/readme/docs/mobile-navbar.png" height="640" width="360" alt="mobile navbar view">
 The results for the mobile navbar are as expected.
 
-![Navbar Footer](assets/readme/docs/mobile-footer.png)
+<img src="assets/readme/docs/mobile-footer.png" height="640" width="360" alt="mobile footer view">
 The results for the mobile footer are as expected. The back-to-top button also displays in the correct way on mobile across each page.
 
-![Index Mobile Card](assets/readme/docs/index-mobile-card.png)
+<img src="assets/readme/docs/index-mobile-card.png" height="640" width="360" alt="mobile card view">
 Screenshot of the index page cards on mobile are as expected.
-![Products](assets/readme/docs/products-mobile.png)
+
+<img src="assets/readme/docs/products-mobile.png" height="640" width="360" alt="mobile products view">
 Screenshot of the products page on mobile are as expected.
-![Reviews](assets/readme/docs/reviews-mobile.png)
+<img src="assets/readme/docs/reviews-mobile.png" height="640" width="360" alt="mobile reviews view">
 Screenshot of the reviews page on mobile are as expected.
-![Gallery](assets/readme/docs/gallery-mobile.png)
+<img src="assets/readme/docs/gallery-mobile.png" height="640" width="360" alt="mobile gallery view">
 Screenshot of the gallery page on mobile are as expected.
-![Contact](assets/readme/docs/contact-mobile.png)
+<img src="assets/readme/docs/contact-mobile.png" height="640" width="360" alt="mobile contact view">
 Screenshot of the contact page on mobile are as expected.
 
 ## Deployment & Local Development
