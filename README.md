@@ -322,7 +322,8 @@ As I proceeded through the development phase I consistently checked each page to
 #### Mobile
 
 The navbar for mobile is replicated through the entire site so I have only provided the single screenshot for the mobile navbar and footer. 
-![Navbar Mobile](assets/readme/docs/mobile-navbar.png)
+
+<img src="assets/readme/docs/mobile-navbar.png" height="360" width="640" alt="mobile navbar view">
 The results for the mobile navbar are as expected.
 
 ![Navbar Footer](assets/readme/docs/mobile-footer.png)
