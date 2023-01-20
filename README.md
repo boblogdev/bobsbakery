@@ -241,6 +241,7 @@ Whilst coding the site I have ensured that the site is accesible for all. This i
 * CDNs [Cloudflare](https://www.cloudflare.com/en-gb/learning/what-is-cloudflare/ "Cloudflare CDN") and  [JsDelivr](https://www.jsdelivr.com/ "JsDelivr") were used for Font Awesome icons CSS minified and Bootstrap 4.6 CSS minified.
 * Pomodoro Timer - to stop me from procrastinating.
 * [Trello](https://trello.com "Trello") was used to try and keep track of To-Dos and Completed Tasks. 
+* [Gimp](https://www.gimp.org/) was used to reduce file size of an image.
 
 ## Testing
 
@@ -386,6 +387,8 @@ To copy a GitHub repository:-
 * in the Gitpod Terminal, navigate to the directory where you wish to place the clone. Then, type 'git clone' and paste the link you copied earlier and press enter. This process can also be completed using VSCode.
 
 ## Credits
+https://logosbynick.com/gimp-reduce-file-size-png/ - tutorial on how to optimise image and file size.
+
 ### Images
 
 Handle The Heat.com
